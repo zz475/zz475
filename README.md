@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Zara 
 
-<!--
-**zz475/zz475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Multimedia Designer & Web Development Student
 
-Here are some ideas to get you started:
+I'm a creative designer and web development student who enjoys combining design and technology to create interesting digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- WordPress
+- Git & GitHub
+- Figma
+- Adobe Creative Suite
+
+##  Design
+
+- UI/UX Design
+- Web Design
+- Branding
+- Visual Design
+- Prototyping
+
+##  Currently Learning
+
+- Databases
+- CRUD
+- Backend Development
+- PHP & MySQL
+
+##  Projects
+
+I'm currently building web development and design projects while developing my skills.
+
+---
+
+Thanks for visiting my profile! 👋
